@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Food3</string>
+    <string name="account_hint">请输入用户名</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="log_in">登 录</string>
+    <string name="exit">退 出</string>
+    <string name="food_n">Food</string>
 </resources>
